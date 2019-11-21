@@ -23,3 +23,6 @@ comparison with repository
 
 ## test commit
 this is a test commit
+
+## Contribution
+Fork the repo and raise pull request for review
