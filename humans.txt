@@ -4,6 +4,8 @@
 # TEAM
 
     <name> Mayank Dharwal <twitter>
+	Mayank Dharwalxcv@gmail.com
+	devops engineer
 
 # THANKS
 
