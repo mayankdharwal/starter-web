@@ -5,13 +5,13 @@
 
     <name> Mayank Dharwal <twitter>
 	Mayank Dharwalxcv@gmail.com
-	devops engineer
 
 # THANKS
 
-    <name>
+    Mayank
 
 # TECHNOLOGY COLOPHON
 
     HTML5, CSS3,  Angular
     jQuery, Modernizr, AJAX
+	Docker, java programming
