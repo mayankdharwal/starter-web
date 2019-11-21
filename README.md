@@ -20,3 +20,6 @@ adding git comparison lecture
 
 ## Github content
 comparison with repository
+
+## test commit
+this is a test commit
