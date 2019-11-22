@@ -2,6 +2,7 @@
 # The humans responsible & technology colophon
 
 Hi, I am modifiying the file before rebase
+hi...going to insert conflicts in my feature branch
 
 doing some changes in ocal
 
