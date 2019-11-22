@@ -14,6 +14,7 @@ Sample website with plenty of files for demos
 
 ## GIT & GITHub Training
 adding git rebase lectures
+we d=have done so much of work together
 
 ## GIT Comparison
 adding git comparison lecture
