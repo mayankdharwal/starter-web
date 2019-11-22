@@ -7,6 +7,7 @@ This repository is for showing how Git and GitHub work
 
 ## Introduction
 A lot of lectures are already submitted
+and a lot of lectures are still coming up
 
 ## Purpose
 
