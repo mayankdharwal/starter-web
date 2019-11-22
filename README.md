@@ -13,6 +13,7 @@ A lot of lectures are already submitted
 Sample website with plenty of files for demos
 
 ## GIT & GITHub Training
+adding git rebase lectures
 
 ## GIT Comparison
 adding git comparison lecture
