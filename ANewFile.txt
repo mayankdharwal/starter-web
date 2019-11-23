@@ -1,2 +1,4 @@
 #adding new file in git project
 this file still not tracked by git
+
+adding stash new branch

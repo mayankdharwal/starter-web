@@ -24,4 +24,5 @@ doing some changes in ocal
 
     jQuery, Modernizr
 	AWS, Google cloud
+	AWS solution architect developer
 	
