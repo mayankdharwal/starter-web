@@ -20,6 +20,7 @@ we d=have done so much of work together
 ## GIT Comparison
 adding git comparison lecture
 adding git comparison lecture
+adding new lectures for stash
 
 ## Github content
 comparison with repository
